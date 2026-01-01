@@ -1,4 +1,3 @@
-### Hi ![visitors](https://visitor-badge.glitch.me/badge?page_id=Tarekbouamer) 👋
 
 <p align="center">
   <img src="https://github.com/Tarekbouamer/Tarekbouamer/blob/main/wall.jpg" width="800" height="500">
